@@ -1,0 +1,16 @@
+.salvarForm{
+    background-color: rgb(58, 15, 83);
+    color: white;
+}
+
+.a{
+    background-color: rgb(58, 15, 83);
+    color: white;
+}
+.a:hover{
+    text-decoration: none;
+    background-color: rgb(74, 19, 105);
+}
+.btn-block:focus{
+    box-shadow: none;
+}
